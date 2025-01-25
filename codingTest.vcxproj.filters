@@ -21,5 +21,8 @@
     <ClCompile Include="BJ10816.cpp">
       <Filter>BJ</Filter>
     </ClCompile>
+    <ClCompile Include="BJ11724.cpp">
+      <Filter>BJ</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
